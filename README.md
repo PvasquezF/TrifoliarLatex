@@ -1,3 +1,3 @@
 # TrifoliarLatex
 Código Sencillo para un trifoliar utilizando latex
-Hecho en SharedLatex
+Hecho en ShareLatex
